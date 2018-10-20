@@ -16,7 +16,7 @@ public class RssReader implements Reader, RssHelper {
     }
 
     public void read() {
-
+        // TODO: Call readURL and get data from RSS, pass to object
     }
 
     public InputStream readUrl() throws IOException {
